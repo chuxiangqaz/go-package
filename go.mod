@@ -1,4 +1,4 @@
-module github.com/chuxiangqaz/go-package
+module github.com/chuxiangqaz/go-package/v3
 
 go 1.15
 
