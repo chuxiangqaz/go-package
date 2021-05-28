@@ -1,4 +1,4 @@
-module chuxiang
+module github.com/chuxiangqaz/go-package
 
 go 1.15
 
